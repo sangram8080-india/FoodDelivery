@@ -4,7 +4,7 @@ A website for ordering food online.
 
 ## Usage
 
-Visit the  https://mrsangram.github.io/FoodDelivery/  to place your order.
+Visit the  <a href="https://sangram8080-india.github.io/FoodDelivery/">View</a>  to place your order.
 
 ## Technologies Used
 
